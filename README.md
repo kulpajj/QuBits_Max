@@ -1,5 +1,6 @@
 # QuBits_Max
 Max/MSP patches for the QuBits system, designed for sonic interactive virtual reality
+A demonstration of the system can be viewed [here](https://www.youtube.com/watch?v=o8-Jf9G6QU8&t=270s)
 
 ---
 
