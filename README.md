@@ -15,7 +15,7 @@ A demonstration of the system can be viewed [here](https://www.youtube.com/watch
 
 ### CNMAT Externals
 
-Go to the File -> Package Manager, search for "CNMAT" and install
+- Go to the File -> Package Manager, search for "CNMAT" and install
 
 ---
 
