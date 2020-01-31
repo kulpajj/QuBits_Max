@@ -22,7 +22,7 @@ Go to the File -> Package Manager, search for "CNMAT" and install
 ### Download packages
 Download these packages and place in your Max directory (as described below):
 
-- [CNMAT ODOT Library](https://github.com/CNMAT/CNMAT-ODOT-SS-2019/releases/download/1.1/CNMAT-odot.zip)
+- [CNMAT ODOT Library](https://github.com/CNMAT/CNMAT-odot/releases/tag/v1.2-20_beta_3.2)
 
 ---
 ### Installation
