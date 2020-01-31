@@ -23,6 +23,7 @@ A demonstration of the system can be viewed [here](https://www.youtube.com/watch
 Download these packages and place in your Max directory (as described below):
 
 - [CNMAT ODOT Library](https://github.com/CNMAT/CNMAT-odot/releases/tag/v1.2-20_beta_3.2)
+- [CNMAT Music & Computing](https://github.com/CNMAT/Music-and-Computing/releases/tag/1.8)
 
 ---
 ### Installation
